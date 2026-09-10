@@ -1,3 +1,12 @@
+#PROJETO DE ORGANIZADOR DE TAREFAS PARA DEVS
+Feito por:
+- Manuella Sousa Thomazini - RM 573606
+- Henrique Gumbys Pagliato - RM 570914
+- Murillo Dourado Vieira - RM 571912
+- Renan Carlos Silva Bonanno - RM 573043
+
+Link do repositório: https://github.com/manuellathomazini/Dev-Tarefas.git
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
