@@ -114,7 +114,7 @@ const Tarefas = () => {
                     value={data}
                     // CALLBACK: mesmo padrão do input acima, mas atualizando o estado "data"
                     onChange={(e) => {setData(e.target.value)}}
-                    className='w-full bg-black border border-zinc-700 rounded px-3 py-2 text-sm text-zinc-300 focus:border-green-500 focus:outline-none'>
+                    className='w-full bg-black border border-zinc-700 rounded px-3 py-2 text-sm text-zinc-300 focus:border-green-500 focus:outline-none scheme-dark'>
                     </input>
 
                     <select
